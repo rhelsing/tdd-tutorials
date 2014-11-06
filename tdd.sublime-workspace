@@ -1,0 +1,1068 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"serv",
+				"service_charge"
+			],
+			[
+				"me",
+				"member"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"che",
+				"check_box"
+			],
+			[
+				"camp",
+				"campaign"
+			],
+			[
+				"find",
+				"find_each"
+			],
+			[
+				"del",
+				"delay"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"add",
+				"addon"
+			],
+			[
+				"addon",
+				"addon_member"
+			],
+			[
+				"to_s",
+				"to_sym"
+			],
+			[
+				"produc",
+				"product_id"
+			],
+			[
+				"emai",
+				"email_log"
+			],
+			[
+				"res",
+				"rescue"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"stat",
+				"state_location"
+			],
+			[
+				"marg",
+				"margin-bottom: "
+			],
+			[
+				"lin",
+				"line-height: "
+			],
+			[
+				"set",
+				"set_confirm"
+			],
+			[
+				"set_",
+				"set_intro"
+			],
+			[
+				"k",
+				"keepmycoverage"
+			],
+			[
+				"pro",
+				"progression"
+			],
+			[
+				"pad",
+				"padding-top: "
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"send",
+				"send_contact"
+			],
+			[
+				"Mem",
+				"MemberMailer"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"scree",
+				"screenshots"
+			],
+			[
+				"pa",
+				"padding-bottom: "
+			],
+			[
+				"margi",
+				"margin-bottom: "
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"mar",
+				"margin-top: "
+			],
+			[
+				"le",
+				"letter-spacing: "
+			],
+			[
+				"ce",
+				"center  (element)"
+			],
+			[
+				"ma",
+				"margin-top: "
+			],
+			[
+				"fon",
+				"font-size: "
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"button",
+				"button_style"
+			],
+			[
+				"gly",
+				"glyph-1"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"befor",
+				"before_create"
+			],
+			[
+				"padding",
+				"padding-top:   (property)"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"exp",
+				"expiration_date"
+			],
+			[
+				"ca",
+				"carrier_id"
+			],
+			[
+				"pay",
+				"payment_type"
+			],
+			[
+				"bil",
+				"billing_zip"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"product_",
+				"product_term"
+			],
+			[
+				"first",
+				"first_bill_date"
+			],
+			[
+				"rou",
+				"routing_number"
+			],
+			[
+				"clien",
+				"client_access_code"
+			],
+			[
+				"card",
+				"card_number"
+			],
+			[
+				"billing_",
+				"billing_zip"
+			],
+			[
+				"state",
+				"state_location"
+			],
+			[
+				"city",
+				"billing_city"
+			],
+			[
+				"bill",
+				"billing_address_1"
+			],
+			[
+				"account",
+				"account_number"
+			],
+			[
+				"ryan",
+				"ryanhelsing@gmail"
+			],
+			[
+				"tran",
+				"transactionId"
+			],
+			[
+				"aco",
+				"account_number"
+			],
+			[
+				"ac",
+				"account_type"
+			],
+			[
+				"acco",
+				"account_number"
+			],
+			[
+				"acc",
+				"account_type"
+			],
+			[
+				"accou",
+				"account_type"
+			],
+			[
+				"va",
+				"vaidate_check"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"billing",
+				"billing_address_1"
+			],
+			[
+				"ex",
+				"expiry_date"
+			],
+			[
+				"err",
+				"error_string"
+			],
+			[
+				"DOB",
+				"DOB_REGEX"
+			],
+			[
+				"zip",
+				"zipcode"
+			],
+			[
+				"Bil",
+				"BillingZip"
+			],
+			[
+				"tex",
+				"text-align:   (property)"
+			],
+			[
+				"bor",
+				"border:   (property)"
+			],
+			[
+				"backgroun",
+				"background-color:   (property)"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"not",
+				"not_all"
+			],
+			[
+				"product",
+				"product_selected"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"payment",
+				"payment_form"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"max",
+				"max-width:   (property)"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"uplo",
+				"upload_process"
+			],
+			[
+				"he",
+				"height:   (property)"
+			],
+			[
+				"border",
+				"border-color:   (property)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"or",
+				"Organizations"
+			],
+			[
+				"fee",
+				"feed"
+			],
+			[
+				"feed",
+				"feed_params"
+			],
+			[
+				"to",
+				"to_date"
+			],
+			[
+				"coverage",
+				"coverage_amount"
+			],
+			[
+				"mem",
+				"member"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"up",
+				"update_attribute"
+			],
+			[
+				"new",
+				"new_num"
+			],
+			[
+				"emails",
+				"emails_sent"
+			],
+			[
+				"update",
+				"update_attribute  (function)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"email",
+				"emails_sent"
+			],
+			[
+				"org",
+				"organization_id"
+			],
+			[
+				"render",
+				"render_partial  (function)"
+			],
+			[
+				"touch",
+				"touch_page"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"subject",
+				"subject_id"
+			],
+			[
+				"auth",
+				"authorized_user"
+			],
+			[
+				"al",
+				"always_fail"
+			],
+			[
+				"E",
+				"EMAIL_REGEX"
+			],
+			[
+				"em",
+				"EMAIL_REGEX"
+			],
+			[
+				"vali",
+				"validates_length_of"
+			],
+			[
+				"C",
+				"CONTENT_TYPES"
+			],
+			[
+				"erro",
+				"error_messages_for  (function)"
+			],
+			[
+				"style",
+				"stylesheet_link_tag  (function)"
+			],
+			[
+				"pric",
+				"price_icon"
+			],
+			[
+				"font",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"package con",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git ps",
+				"Git: Push Current Branch"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryanhelsing/Library/Mobile Documents/com~apple~CloudDocs/Projects/ruby/tdd"
+	],
+	"file_history":
+	[
+		"/Users/ryanhelsing/Library/Mobile Documents/com~apple~CloudDocs/Projects/rails/volo/app/models/member.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/signup/options.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/README.md",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/members/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/member.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/signup/confirmation.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_confirmation.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/signup_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_confirmation.text.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/campaigns/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/campaigns/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/campaigns_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/db/migrate/20141027204941_add_service_charge_and_service_charge_amount_to_campaign.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/feed.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/lib/tasks/cron.rake",
+		"/Users/ryanhelsing/Projects/rails/volo/Gemfile",
+		"/Users/ryanhelsing/Projects/rails/volo/test/models/member_test.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/test/fixtures/organizations.yml",
+		"/Users/ryanhelsing/Projects/rails/volo/lib/worker.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/Procfile",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/home_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/signup/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_email.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/addon_email.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/addon_email.text.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_public_footer.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/members/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/members_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/mailers/member_mailer.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/addons_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/addons/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/addons/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/addon.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/db/migrate/20141023213401_add_feed_cost_to_addons.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/campaign.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_admin_navigation.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/addons/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/home/process.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_public_email_footer_alt.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_public_email_footer.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_modal.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/config/environments/production.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/home.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/public.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/application.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/policy.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_hero.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/config/routes.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/design.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_navigation.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/members/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/members/edit.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_public_email_header.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/feeds/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/campaigns/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/admin.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_modal.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/helpers/application_helper.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/config/environments/development.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_navigation.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_icon_bullet_points.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_footer.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/browser.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/bin/deploy",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_icon-bullet-points.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_hero.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_contact.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_error.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_comment.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_footer.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_comment.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/feeds/_form.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/feeds/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/feeds_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/base/_variables.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_browser.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/home/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/_footer-2.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/refills/_navi.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/OLDbootstrap.css",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/application.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/rails_best_practices_output.html",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/bootstrap.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/bootstrap.css",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/refills/globals.css.scss",
+		"/Users/ryanhelsing/Projects/rails/testing_gems/app/views/schools/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/addons.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/javascripts/signup.js.coffee",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/javascripts/addons.js.coffee",
+		"/Users/ryanhelsing/Projects/rails/volo/lib/provider_stylesheet.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/signup/styles.scss.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/1_20140922162612.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/provider.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/cover.css.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/application_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/helpers/signup_helper.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/policies/index.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_email.text.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/1_20140929160656.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/1_20140905172119.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/app/models/signup.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/lib/transaction.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/lib/validator.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_error_wsdl.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/tmp/pids/server.pid",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/member_mailer/send_error_wsdl.text.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/public/500.html",
+		"/Users/ryanhelsing/Projects/rails/volo/public/404.html",
+		"/Users/ryanhelsing/Projects/rails/volo/bin/spring",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/ryanhelsing/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ryanhelsing/Projects/rails/volo/config/database.yml",
+		"/Users/ryanhelsing/Projects/rails/volo/volo.sublime-project",
+		"/Users/ryanhelsing/Projects/rails/volo/app/controllers/providers_controller.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/providers/show.html.erb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/providers/_form.html.erb",
+		"/Users/ryanhelsing/Projects/bin/cheat.md",
+		"/Users/ryanhelsing/Projects/cheat.md",
+		"/Users/ryanhelsing/Projects/rails/volo/testCall.rb",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/B2526553-04AF-486B-817C-027225422430/test.php",
+		"/Users/ryanhelsing/Library/Caches/Cleanup At Startup/Transmit/18B1A81D-F8FC-41E8-ACB5-82DE65F020D1/provider_api_helper.php",
+		"/Users/ryanhelsing/Projects/rails/volo/app/assets/stylesheets/1_20140905174610.scss",
+		"/Users/ryanhelsing/Projects/rails/volo/config/schedule.rb",
+		"/Users/ryanhelsing/Projects/rails/volo/app/views/layouts/_public_header.html.erb",
+		"/Users/ryanhelsing/Downloads/rootkey.csv"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"background",
+			"shadow",
+			"bottom",
+			"curso",
+			"button",
+			"transac",
+			"brand",
+			"$brand",
+			"<!",
+			"word",
+			"href",
+			"about",
+			"<header class=\"homeHeader pageHeader\">\n    <h1>Roux Academy of Art and Design<a href=\"/index.htm\" title=\"home\"></a></h1>\n    <nav id=\"pageNav\" class=\"cf\">\n      <ul>\n        <li><a href=\"programs/programs.htm\" title=\"programs\">Programs</a></li>\n        <li><a href=\"admissions.htm\" title=\"admissions\">Admissions</a></li>\n        <li><a href=\"student_portal.htm\" title=\"student portal\">Student Portal</a></li>\n        <li><a href=\"campus_portal.htm\" title=\"campus portal\">Campus</a></li>\n        <li><a href=\"alumni.htm\" title=\"alumni\">Alumni</a></li>\n        <li><a href=\"about/about.htm\"  title=\"about Roux Academy\">About</a></li>\n      </ul>\n    </nav>",
+			">\n",
+			"indent",
+			"334048",
+			"424f57",
+			"1c2b36",
+			"424f57",
+			"4f5d66",
+			"586671",
+			"1c7bcd",
+			"158ef6",
+			"334048",
+			"424f57",
+			"158ef6",
+			"424f57",
+			"pure-menu-heading",
+			"');\n",
+			"^[\\n]",
+			"^\\n\\n",
+			"/\\n\\n/g",
+			"^\\n",
+			"\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"http://www.processtext.com/abclit.html",
+			"ABC Amber LIT Converter",
+			"><",
+			"span",
+			".c",
+			"url(",
+			"36",
+			"37",
+			"<",
+			"filebrowserImageBrowseLinkUrl",
+			"f_i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"e4e9ef",
+			"2e404e",
+			"3c5262",
+			"334048",
+			"424f57",
+			"0b1d2a",
+			"1c2b36",
+			"4dbd74",
+			"1c2b36",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "tdd.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mem",
+				"app/mailers/member_mailer.rb"
+			],
+			[
+				"50",
+				"public/500.html"
+			],
+			[
+				"5",
+				"public/500.html"
+			],
+			[
+				"40",
+				"public/404.html"
+			],
+			[
+				"sign",
+				"app/controllers/signup_controller.rb"
+			],
+			[
+				"tra",
+				"lib/transaction.rb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"val",
+				"lib/validator.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"ind",
+				"index.htm"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
