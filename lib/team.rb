@@ -9,7 +9,7 @@ class Team
 	end
 
 	def has_bad_name?
-		list_of_words = %w{crappy bad lousy}
+		list_of_words = ['crappy', 'bad', 'lousy']
 		list_of_words - @name.downcase.split(" ") != list_of_words
 	end
 
